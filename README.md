@@ -5,7 +5,6 @@
 - Currently honing my skills in data structures, algorithms, and full‑stack web development.
 - Always excited to collaborate—feel free to connect!
 
-**🎓 B.Tech Student** in Computer Science  
 **💻 Skills:** C , C++, Python,HTML , CSS , JavaScript   
 **🌱 Currently Learning:** Modern JavaScript frameworks · Data Structures & Algorithms  
 
@@ -14,11 +13,11 @@
 ## 🔧 Skills & Technologies
 - **Web Development:** HTML5 , CSS3 , JavaScript  
 - **Programming Languages:** C , C++ , Python  
-- **Areas of Interest:** Data Structures & Algorithms , MERN‑Stack Web Development ,AI & Machine Learning 
+- **Areas of Interest:** Data Structures & Algorithms , full‑Stack Web Development ,AI & Machine Learning 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" alt="Skills Icons" />
   </a>
 </p>
 
